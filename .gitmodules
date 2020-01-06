@@ -7,3 +7,6 @@
 [submodule "toolranks"]
 	path = toolranks
 	url = https://github.com/lisacvuk/minetest-toolranks.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
