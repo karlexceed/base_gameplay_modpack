@@ -4,3 +4,6 @@
 [submodule "hudbars"]
 	path = hudbars
 	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "toolranks"]
+	path = toolranks
+	url = https://github.com/lisacvuk/minetest-toolranks.git
