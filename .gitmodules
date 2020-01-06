@@ -1,0 +1,6 @@
+[submodule "hbhunger"]
+	path = hbhunger
+	url = https://repo.or.cz/minetest_hbhunger.git
+[submodule "hudbars"]
+	path = hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
