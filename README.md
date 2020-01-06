@@ -5,15 +5,15 @@ This is a modpack that combines several other gameplay mods that I consider usef
 
 It combines:
 - Hunger with HUD bar by Wuzzy (hbhunger)
--- https://content.minetest.net/packages/Wuzzy/hbhunger/
+ - https://content.minetest.net/packages/Wuzzy/hbhunger/
 - HUD bars by Wuzzy (hudbars)
--- https://content.minetest.net/packages/Wuzzy/hudbars/
+ - https://content.minetest.net/packages/Wuzzy/hudbars/
 - Illumination by Piezo_ (illumination)
--- https://content.minetest.net/packages/Piezo_/illumination/
+ - https://content.minetest.net/packages/Piezo_/illumination/
 - Tool Ranks by lisacvuk (toolranks)
--- https://content.minetest.net/packages/lisacvuk/toolranks/
+ - https://content.minetest.net/packages/lisacvuk/toolranks/
 - Unified Inventory by RealBadAngel (unified_inventory)
--- https://content.minetest.net/packages/RealBadAngel/unified_inventory/
+ - https://content.minetest.net/packages/RealBadAngel/unified_inventory/
 
 ## Important Details
 
