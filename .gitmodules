@@ -13,3 +13,6 @@
 [submodule "illumination"]
 	path = illumination
 	url = https://notabug.org/Piezo_/minetest-illumination.git
+[submodule "falling_dirt"]
+	path = falling_dirt
+	url = https://github.com/karlexceed/falling_dirt
