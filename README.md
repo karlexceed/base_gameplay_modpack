@@ -4,6 +4,8 @@
 This is a modpack that combines several other gameplay mods that I consider useful for Minetest worlds.
 
 It combines:
+- Falling Dirt by karlexceed (falling_dirt)
+  - https://content.minetest.net/packages/karlexceed/falling_dirt/
 - Hunger with HUD bar by Wuzzy (hbhunger)
   - https://content.minetest.net/packages/Wuzzy/hbhunger/
 - HUD bars by Wuzzy (hudbars)
